@@ -87,10 +87,5 @@ The pipeline must:
 ● Process only new CDC events
 
 **Expected Output**
-Final Customer Dimension Table
-customer_sk | customer_id | city | status | start_date | end_date | is_current
----------------------------------------------------------------------------------------
-1 | C101 | Delhi | ACTIVE | 2026-03-01 | 2026-03-02 | false
-2 | C101 | Bangalore | ACTIVE | 2026-03-02 | 2026-03-03 | false
-3 | C101 | Bangalore | INACTIVE | 2026-03-03 | NULL | true
-4 | C102 | Mumbai | ACTIVE | 2026-03-01 | NULL | true
+<img width="424" height="122" alt="image" src="https://github.com/user-attachments/assets/3dc9f071-19d7-4250-b9fb-23b4cb1628c6" />
+
